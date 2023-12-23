@@ -1,0 +1,69 @@
+{
+    "info": {
+        "id": "10576",
+        "name": "Pizza Hut",
+        "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+        "locality": "Koramangala",
+        "areaName": "Koramangala",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+            "Pizzas"
+        ],
+        "avgRating": 4,
+        "parentId": "721",
+        "avgRatingString": "4.0",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 20,
+            "lastMileTravel": 0.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "20 mins",
+            "lastMileTravelString": "0.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-24 04:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "60% OFF",
+            "subHeader": "UPTO ₹120"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-5e0c6a44-09f9-43e1-b73d-cf68432ef170"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/pizza-hut-koramangala-bangalore-10576",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
